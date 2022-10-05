@@ -1,1 +1,5 @@
-
+body {
+    margin: 0;
+    background-image: url(https://images.pexels.com/photos/4016509/pexels-photo-4016509.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-color: rgb(208, 135, 215);
+}
