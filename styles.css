@@ -4,3 +4,8 @@ body {
     background-color: rgb(208, 135, 215);
     background-size: cover;
 }
+
+.header-logo img {   
+    width: 150px;
+    height: 200px;
+}
