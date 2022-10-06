@@ -21,12 +21,11 @@ body {
     border-radius: 50%;
 }
 
-.header-right-container {
-    display: flex;
-    align-items: center;
-}
+
 
 .header-right {
+    display: flex;
+    align-items: center;
 }
 
 .header-right a{
