@@ -58,6 +58,7 @@ body {
     font-size: 48px;
     margin: .5em;
     text-decoration: underline;
+    text-shadow: 0 0 .5em rgb(245, 201, 237);
 }
 
 .part1-left p {
