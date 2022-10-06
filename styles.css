@@ -21,8 +21,6 @@ body {
     border-radius: 50%;
 }
 
-
-
 .header-right {
     display: flex;
     align-items: center;
@@ -33,4 +31,21 @@ body {
     color: rgb(52, 219, 216);
     margin: 20px;
     font-size: 24px;
+}
+
+.part1-background {
+    background-color: rgb(220, 217, 220, .7);
+    width: 85%;
+    height: 100%;
+    border-radius: 1.5em;
+    margin: 9em auto 0 auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.part1-right img{
+    width: 18em;
+    height: 50%;
 }
