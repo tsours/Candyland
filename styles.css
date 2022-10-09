@@ -91,3 +91,46 @@ body {
     height: 50%;
     margin: 2em;
 }
+
+.part2-background {
+    background-color:rgba(142, 45, 246, 0.7);
+    margin: 9em auto 0 auto;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
+
+.part2-title h2 {
+    color: white;
+    font-size: 38px;
+    margin: 2em;
+    text-decoration: underline;
+    text-shadow: 0 0 .5em rgb(78, 196, 255);
+    text-align: center;
+}
+
+.part2-cards-container {
+    color: white;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    gap: 5em;
+}
+
+.part2-cards-container p {
+    text-align: center;
+    font-size: 24px;
+    font-style: italic;
+    margin: .5em;
+}
+
+
+.part2-cards-container img {
+    width: 10em;
+    height: 7em;
+    border-radius: 1.5em;
+}
+
