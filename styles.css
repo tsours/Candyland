@@ -159,3 +159,47 @@ body {
     font-size: 24px;
     font-weight: bold;
 }
+
+.part4-container {
+    background-color: rgba(161, 52, 175);
+    margin: 9em auto 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2.5em 0;
+}
+
+.part4-background {
+    color: white;
+    padding: 2.5em 0;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    text-align: center;
+    flex: 1;
+}
+
+.part4-text h3 {
+    font-size: 36px;
+    margin-bottom: 0.1em;
+    text-shadow: 0 0 .5em rgb(245, 219, 255);
+    text-decoration: underline;
+}
+
+.part4-text p {
+    font-size: 26px;
+}
+
+.part4-background button {
+    background-color: rgb(245, 201, 237);
+    text-shadow: 0 0 .5em rgb(236, 221, 242);
+    font-size: 18px;
+    border-radius: 12px;
+    padding: .5em 2em;
+}
+
+.part4-background button:hover {
+    box-shadow: 0 0.5em 0.5em -0.4em rgb(255, 255, 255);
+    transform: translateY(-0.25em);
+}
