@@ -90,6 +90,7 @@ body {
     width: 12em;
     height: 50%;
     margin: 2em;
+    border-radius: 1.5em;
 }
 
 .part2-background {
