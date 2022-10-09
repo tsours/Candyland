@@ -135,3 +135,27 @@ body {
     border-radius: 1.5em;
 }
 
+.part3-background {
+    background-color: rgb(255, 255, 255, .7);
+    margin: 9em auto 0 auto;
+    width: 85%;
+    height: 100%;
+    border-radius: 1.5em;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    flex: 1;
+}
+
+.part3-quote {
+    font-size: 48px;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 0 0 .6em rgb(113, 53, 254);
+    margin-bottom: -0.6em;
+}
+
+.part3-author {
+    font-size: 24px;
+    font-weight: bold;
+}
