@@ -3,6 +3,7 @@ body {
     background-image: url("./images/background-image.jpeg");
     background-color: rgb(208, 135, 215);
     background-size: cover;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .header {
@@ -153,6 +154,7 @@ body {
     text-align: center;
     text-shadow: 0 0 .6em rgb(113, 53, 254);
     margin-bottom: -0.6em;
+    margin: 0 2em;
 }
 
 .part3-author {
