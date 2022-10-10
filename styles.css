@@ -192,7 +192,8 @@ body {
 }
 
 .part4-background button {
-    background-color: rgb(245, 201, 237);
+    color: white;
+    background-color: #3882F6;
     text-shadow: 0 0 .5em rgb(236, 221, 242);
     font-size: 18px;
     border-radius: 12px;
